@@ -1,5 +1,7 @@
 #+TITLE: Nonguix
 
+IMPORTANT: This repository now lives at https://gitlab.com/nonguix/nonguix
+
 Nonguix is a software repository for the
 [[https://www.gnu.org/software/guix/][GNU Guix]] package manager,
 which packages some software which cannot be included in the official
